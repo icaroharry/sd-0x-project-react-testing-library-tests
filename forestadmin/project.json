@@ -1,0 +1,45 @@
+{
+  "project": {
+    "name": "sd-0x-block16-react-tests",
+    "description": "Projeto sobre React Testing Library",
+    "enabled": true,
+    "deadline": "2020-06-20 17:10:00",
+    "requirements": [
+      {
+        "description": "App",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "About",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "FavoritePokemons",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "NotFound",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Pokedex",
+        "enabled": true,
+        "bonus": false
+      }
+      {
+        "description": "Pokemon",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "PokemonDetails",
+        "enabled": true,
+        "bonus": false
+      }
+    ]
+  }
+}
