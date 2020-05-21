@@ -1,6 +1,6 @@
 {
   "project": {
-    "name": "sd-0x-block16-react-tests",
+    "name": "tryber/sd-0x-block16-project-react-testing-library-tests",
     "description": "Projeto sobre React Testing Library",
     "enabled": true,
     "deadline": "2020-06-20 17:10:00",
