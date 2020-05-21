@@ -6,37 +6,37 @@
     "deadline": "2020-06-20 17:10:00",
     "requirements": [
       {
-        "description": "App stryker test",
+        "description": "App mutation test",
         "enabled": true,
         "bonus": false
       },
       {
-        "description": "About stryker test",
+        "description": "About mutation test",
         "enabled": true,
         "bonus": false
       },
       {
-        "description": "FavoritePokemons stryker test",
+        "description": "FavoritePokemons mutation test",
         "enabled": true,
         "bonus": false
       },
       {
-        "description": "NotFound stryker test",
+        "description": "NotFound mutation test",
         "enabled": true,
         "bonus": false
       },
       {
-        "description": "Pokedex stryker test",
+        "description": "Pokedex mutation test",
         "enabled": true,
         "bonus": false
       }
       {
-        "description": "Pokemon stryker test",
+        "description": "Pokemon mutation test",
         "enabled": true,
         "bonus": false
       },
       {
-        "description": "PokemonDetails stryker test",
+        "description": "PokemonDetails mutation test",
         "enabled": true,
         "bonus": false
       }
