@@ -6,37 +6,37 @@
     "deadline": "2020-06-20 17:10:00",
     "requirements": [
       {
-        "description": "App",
+        "description": "App stryker test",
         "enabled": true,
         "bonus": false
       },
       {
-        "description": "About",
+        "description": "About stryker test",
         "enabled": true,
         "bonus": false
       },
       {
-        "description": "FavoritePokemons",
+        "description": "FavoritePokemons stryker test",
         "enabled": true,
         "bonus": false
       },
       {
-        "description": "NotFound",
+        "description": "NotFound stryker test",
         "enabled": true,
         "bonus": false
       },
       {
-        "description": "Pokedex",
+        "description": "Pokedex stryker test",
         "enabled": true,
         "bonus": false
       }
       {
-        "description": "Pokemon",
+        "description": "Pokemon stryker test",
         "enabled": true,
         "bonus": false
       },
       {
-        "description": "PokemonDetails",
+        "description": "PokemonDetails stryker test",
         "enabled": true,
         "bonus": false
       }
